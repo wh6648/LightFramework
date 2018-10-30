@@ -59,3 +59,45 @@ typings/
 
 # next.js build output
 .next
+
+# node模块
+node_modules/
+
+# 文档
+docs/
+
+# 代码分析报告
+reports/
+
+# 覆盖率用代码
+cover*
+
+# 日志文件
+*/logs/*log*
+
+# 上传等临时文件
+tmp/
+
+# mac用管理文件
+.DS_Store
+
+# WebStorm管理文件
+.idea
+
+# npm安装日志
+npm-debug.log
+
+# cpp编译日志
+builderror.log
+build/
+
+# java编译生成文件
+/lib/java/target*
+
+# javascript模块，由bowe管理
+static/bower/alertify.js
+static/bower/bootstrap
+static/bower/font-awesome
+static/bower/jquery
+static/bower/moment
+static/bower/underscore
